@@ -3,5 +3,6 @@
     <File Path=".gitignore" />
   </Folder>
   <Project Path="DesignPatterns/DesignPatterns.csproj" Id="8d8aa624-5960-4214-bc5d-a37102bf3084" />
+  <Project Path="Inheritance/LibrarySystem.csproj" Id="3495a04c-edd8-468c-8206-a4dd9f52f8ce" />
   <Project Path="SRP/SrpLab.csproj" />
 </Solution>
