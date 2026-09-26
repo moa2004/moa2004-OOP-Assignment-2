@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Loans
 {
-    internal class LoanAssessment
+    public class LoanAssessment
     {
         public decimal RequestedAmount { get; }
         public int CreditScore { get; }

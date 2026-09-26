@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP_Assignment_2.src.Checkout
 {
-    internal class PaymentAuthorization
+    public class PaymentAuthorization
     {
         private bool _giftWrap;
         private readonly CheckoutBasket _checkoutBasket;

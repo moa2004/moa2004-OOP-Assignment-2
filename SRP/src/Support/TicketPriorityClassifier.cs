@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class TicketPriorityClassifier
+public class TicketPriorityClassifier
 {
     public string Classify(SupportTicket ticket)
     {

@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class SubscriptionLedgerExporter
+public class SubscriptionLedgerExporter
 {
     private readonly SubscriptionBilling _billing;
     private readonly InvoiceNumberGenerator _invoiceNumbers;

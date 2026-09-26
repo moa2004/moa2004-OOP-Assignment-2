@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class WardPager
+public class WardPager
 {
     private readonly List<string> _pagerLog = new();
 

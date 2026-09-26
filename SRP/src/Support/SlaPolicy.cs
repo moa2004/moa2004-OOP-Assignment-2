@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class SlaPolicy
+public class SlaPolicy
 {
     public DateTimeOffset SlaDeadline(
         SupportTicket ticket)

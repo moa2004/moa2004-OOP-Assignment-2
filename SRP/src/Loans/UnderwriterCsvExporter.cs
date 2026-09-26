@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Loans
 {
-    internal class UnderwriterCsvExporter
+    public class UnderwriterCsvExporter
     {
         private readonly LoanAssessment _loan;
 

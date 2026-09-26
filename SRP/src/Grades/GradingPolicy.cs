@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Grades
 {
-    internal class GradingPolicy
+    public class GradingPolicy
     {
         private readonly GradeBook _gradeBook;
 

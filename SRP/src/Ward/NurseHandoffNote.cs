@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class NurseHandoffNote
+public class NurseHandoffNote
 {
     public string BuildHandoffNote(
         WardBoard ward,

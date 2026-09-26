@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class DunningEmailComposer
+public class DunningEmailComposer
 {
     private readonly SubscriptionBilling _billing;
     private readonly InvoiceNumberGenerator _invoiceNumbers;

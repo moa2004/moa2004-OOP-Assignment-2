@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP_Assignment_2.src.Appointments
 {
-    internal class AppointmentSchedule
+    public class AppointmentSchedule
     {
         private readonly HashSet<DateTimeOffset> _booked = new();
         public TimeOnly Open { get; }

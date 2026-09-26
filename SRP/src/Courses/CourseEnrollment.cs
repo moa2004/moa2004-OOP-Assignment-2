@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Courses
 {
-    internal class CourseEnrollment
+    public class CourseEnrollment
     {
         private readonly HashSet<string> _seated =
             new(StringComparer.OrdinalIgnoreCase);

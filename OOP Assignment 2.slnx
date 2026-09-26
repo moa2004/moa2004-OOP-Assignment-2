@@ -3,4 +3,5 @@
     <File Path=".gitignore" />
   </Folder>
   <Project Path="SRP/SrpLab.csproj" />
+  <Project Path="SrpLab.Runner/SrpLab.Runner.csproj" Id="f194b94d-07ca-4039-8ed7-4e6d76997936" />
 </Solution>

@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class PaymentCollection
+public class PaymentCollection
 {
     public int FailedPayments { get; private set; }
 

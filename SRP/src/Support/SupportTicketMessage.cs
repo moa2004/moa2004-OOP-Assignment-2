@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class SupportTicketMessage
+public class SupportTicketMessage
 {
     private readonly SlaPolicy _slaPolicy;
 

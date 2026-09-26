@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class WardCensusExporter
+public class WardCensusExporter
 {
     public string ExportCensusCsv(
         WardBoard ward)

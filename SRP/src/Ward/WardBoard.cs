@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class WardBoard
+public class WardBoard
 {
     private readonly Dictionary<int, string> _bedPatient = new();
     private readonly Dictionary<int, int> _vitalsScore = new();

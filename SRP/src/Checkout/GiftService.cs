@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP_Assignment_2.src.Checkout
 {
-    internal class GiftService
+    public class GiftService
     {
         private readonly List<(string Sku, decimal Price, int Qty)> _lines = new();
         private bool _giftWrap;

@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Grades
 {
-    internal class GradeReportExporter
+    public class GradeReportExporter
     {
         private readonly GradeBook _gradeBook;
         private readonly GradingPolicy _gradingPolicy;

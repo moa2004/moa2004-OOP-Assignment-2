@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class SupportTicket
+public class SupportTicket
 {
     public string Id { get; }
     public string Subject { get; private set; }

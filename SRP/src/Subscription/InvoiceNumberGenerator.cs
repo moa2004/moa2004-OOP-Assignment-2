@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class InvoiceNumberGenerator
+public class InvoiceNumberGenerator
 {
     private static int _invoiceSeq = 1000;
 

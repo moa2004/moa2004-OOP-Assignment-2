@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Grades
 {
-    internal class GradeBook
+    public class GradeBook
     {
         private readonly Dictionary<string, List<decimal>> _scores =
             new(StringComparer.OrdinalIgnoreCase);

@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Courses
 {
-    internal class CourseWelcomePacket
+    public class CourseWelcomePacket
     {
         private readonly CourseEnrollment _enrollment;
 

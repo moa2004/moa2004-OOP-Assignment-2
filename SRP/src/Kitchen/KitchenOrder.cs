@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Kitchen
 {
-    internal class KitchenOrder
+    public class KitchenOrder
     {
         private readonly List<
             (string Item, List<string> Ingredients, int PrepMinutes)>

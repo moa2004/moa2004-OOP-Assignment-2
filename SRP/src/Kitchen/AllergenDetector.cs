@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Kitchen
 {
-    internal class AllergenDetector
+    public class AllergenDetector
     {
         public IReadOnlyList<string> DetectAllergens(
             KitchenOrder order)

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP_Assignment_2.src.Checkout
 {
-    internal class CouponDiscount
+    public class CouponDiscount
     {
         private string? _couponRaw;
         private readonly CheckoutBasket _checkoutBasket;

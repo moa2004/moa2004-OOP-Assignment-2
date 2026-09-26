@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class SubscriptionBilling
+public class SubscriptionBilling
 {
     public string CustomerId { get; }
     public decimal MonthlyPrice { get; }

@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Kitchen
 {
-    internal class KitchenReadyTimeEstimator
+    public class KitchenReadyTimeEstimator
     {
         private readonly AllergenDetector _allergenDetector;
 

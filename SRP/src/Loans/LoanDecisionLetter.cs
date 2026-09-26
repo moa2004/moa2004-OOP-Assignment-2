@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Loans
 {
-    internal class LoanDecisionLetter
+    public class LoanDecisionLetter
     {
         private readonly LoanAssessment _loan;
         private readonly LoanDocumentRequirements _documents;

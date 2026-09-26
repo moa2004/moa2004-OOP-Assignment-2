@@ -1,6 +1,6 @@
 ﻿namespace OOP_Assignment_2.src.Courses
 {
-    internal class TuitionInvoice
+    public class TuitionInvoice
     {
         private readonly CourseEnrollment _enrollment;
 

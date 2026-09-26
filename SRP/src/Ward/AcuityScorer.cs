@@ -1,6 +1,6 @@
 ﻿namespace SrpLab;
 
-public sealed class AcuityScorer
+public class AcuityScorer
 {
     public int ScoreAcuity(
         int heartRate,

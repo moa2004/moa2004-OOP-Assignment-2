@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP_Assignment_2.src.Checkout
 {
-    internal class CheckoutBasket
+    public class CheckoutBasket
     {
         private readonly List<(string Sku, decimal Price, int Qty)> _lines = new();
         public void AddLine(string sku, decimal price, int qty)
