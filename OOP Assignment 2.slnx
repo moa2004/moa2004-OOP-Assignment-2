@@ -2,5 +2,6 @@
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
+  <Project Path="DesignPatterns/DesignPatterns.csproj" Id="8d8aa624-5960-4214-bc5d-a37102bf3084" />
   <Project Path="SRP/SrpLab.csproj" />
 </Solution>
