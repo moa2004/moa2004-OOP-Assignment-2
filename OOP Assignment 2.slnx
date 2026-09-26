@@ -2,5 +2,5 @@
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
-  <Project Path="SRP/SRP.csproj" />
+  <Project Path="SRP/SrpLab.csproj" />
 </Solution>

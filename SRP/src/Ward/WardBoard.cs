@@ -1,6 +1,4 @@
-﻿using OOP_Assignment_2.src.Ward;
-
-namespace SrpLab;
+﻿namespace SrpLab;
 
 public sealed class WardBoard
 {

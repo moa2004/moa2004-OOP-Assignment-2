@@ -6,10 +6,16 @@ namespace OOP_Assignment_2.src.Appointments
 {
     internal class AppointmentCalendarExporter
     {
+        private AppointmentSchedule schedule;
+
+        public AppointmentCalendarExporter(AppointmentSchedule schedule)
+        {
+            this.schedule = schedule;
+        }
+
         public int SlotMinutes { get; }
         public string ToIcs(DateTimeOffset slot, string patientName, string clinician)
         {
-            // Calendar interoperability format changes with clients — not opening hours.
             var uid = Guid.NewGuid();
             var end = slot.AddMinutes(SlotMinutes);
             return "BEGIN:VCALENDAR\nVERSION:2.0\nBEGIN:VEVENT\n" +
